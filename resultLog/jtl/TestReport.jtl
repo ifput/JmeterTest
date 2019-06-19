@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="692" it="0" lt="55" ct="37" ts="1560841708581" s="true" lb="HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="580990" sby="236" ng="1" na="1">
+  <httpSample t="55" it="0" lt="55" ct="37" ts="1560841708581" s="true" lb="HTTP请求-0" rc="302" rm="Moved Temporarily" tn="线程组 1-1" dt="text" by="473" sby="118" ng="1" na="1">
+    <java.net.URL>http://www.sina.com.cn/</java.net.URL>
+  </httpSample>
+  <httpSample t="633" it="0" lt="560" ct="499" ts="1560841708640" s="true" lb="HTTP请求-1" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="580517" sby="118" ng="1" na="1">
+    <java.net.URL>https://www.sina.com.cn/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.sina.com.cn/</java.net.URL>
+</httpSample>
+
+<httpSample t="541" it="0" lt="46" ct="26" ts="1560841790172" s="true" lb="HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="580990" sby="236" ng="1" na="1">
+  <httpSample t="46" it="0" lt="46" ct="26" ts="1560841790172" s="true" lb="HTTP请求-0" rc="302" rm="Moved Temporarily" tn="线程组 1-1" dt="text" by="473" sby="118" ng="1" na="1">
+    <java.net.URL>http://www.sina.com.cn/</java.net.URL>
+  </httpSample>
+  <httpSample t="494" it="0" lt="412" ct="389" ts="1560841790219" s="true" lb="HTTP请求-1" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="580517" sby="118" ng="1" na="1">
+    <java.net.URL>https://www.sina.com.cn/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.sina.com.cn/</java.net.URL>
+</httpSample>
+
+</testResults>
